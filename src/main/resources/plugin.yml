@@ -1,0 +1,6 @@
+name: BossbarMsg
+version: ${project.version}
+main: net.dohaw.play.bossbarmsg.BossbarMsg
+api-version: 1.13
+softdepend:
+  - CoreAPI
